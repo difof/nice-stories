@@ -1,2 +1,7 @@
-# guided-stories
-my well made AI assisted meaningless stories to waste your time and cease your braincells
+# Braincell killing stories
+
+read to further procrastinate and waste brain juice.
+
+# ToC
+
+- [Zork and the humaniod](./story/zork-and-humaniod.md)
